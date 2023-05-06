@@ -1,0 +1,28 @@
+body{
+    /* background-color: ; */
+    background: linear-gradient(rgb(199, 174, 174), rgba(0, 0, 0, 0.0)), url(./images/wood3.jpeg);
+}
+.container{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.btnbtn-warning{
+    border-radius: 30px;
+    border: 2px solid rgb(67, 9, 3);
+    background-color: rgb(233, 240, 129);
+    font-size: 30px;
+    font-weight: 700;
+    font-style: italic;
+}
+h1{
+    font-style: italic;
+    text-decoration: underline;
+    margin-bottom: 80px;
+
+}
